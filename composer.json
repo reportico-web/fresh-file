@@ -1,5 +1,5 @@
 {
-    "name": "requtize/fresh-file",
+    "name": "reportico/fresh-file",
     "type": "library",
     "description": "Simple, fast, standalone PHP lib, that helps You to define, if any of your files were modified since last time You check - Is this file FRESH?",
     "keywords": ["cache-control", "fresh", "filemtime", "filesystem", "file-system", "file-manager", "filemanager"],
